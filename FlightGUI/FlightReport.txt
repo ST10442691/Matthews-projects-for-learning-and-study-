@@ -1,0 +1,4 @@
+Destination: Durban
+Tickets: 4
+Price per Ticket: 2000.0
+Total incl. VAT: 9120.00
