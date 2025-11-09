@@ -1,0 +1,4 @@
+Coffee: Cappuccino
+Cups: 2
+Price per cup: 22.0
+TOTAL (incl. VAT): 50.60

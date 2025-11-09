@@ -1,0 +1,4 @@
+Book: Python Power
+Quantity: 33
+Price: 44.0
+Total incl. VAT: 1655.28
